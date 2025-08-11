@@ -3,11 +3,11 @@
 Welcome to my personal portfolio website!  
 This is my creative space where I experiment with coding, design, and interactivity while learning new skills.
 
-## 🚀 About
+##  About
 I’m just starting my journey into coding and programming, and this site is my sandbox.  
 It’s a work in progress and will keep evolving as I learn, build, and experiment with HTML, CSS, JavaScript, and AI-powered features.
 
-## ✨ Features
+## Features
 - Interactive hero section with mouse and scroll effects  
 - Light/Dark mode toggle with theme-specific backgrounds  
 - Responsive design for desktop & mobile  
@@ -22,12 +22,12 @@ It’s a work in progress and will keep evolving as I learn, build, and experime
 ## 📷 Screenshots
 *(screenshots here)*
 
-## 📌 Live Demo
+##  Live Demo
 *( website link here )*
 
-## 📄 License
+## License
 - **Code:** [MIT License](LICENSE)  
 - **Text & Images:** [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/)
 
 ---
-💡 *This project is a continuous learning journey — expect updates, improvements, and experiments!*
+*This project is a continuous learning journey — expect updates, improvements, and experiments!*
