@@ -103,14 +103,14 @@ body[data-theme="light"] .about-img{ background: rgba(0,0,0,0.04); }
     body::before{
       content:""; position:fixed; top:-40vh; left:0; right:0; bottom:-10vh; z-index:-4; pointer-events:none;
       background-color: transparent;
-      background-image: url("website_bg_0.jpg"); /* default image (dark) */
+      background-image: url(); /* default image (dark) */
       background-position:center; background-size:cover; background-repeat:no-repeat;
       filter:saturate(0.98) contrast(0.96);
       transform: translate3d(var(--bg-extra-x,0px), calc(var(--bg-translate-y,0px) + var(--bg-extra-y,0px)), 0) scale(1.08);
       transition: transform 420ms linear;
     }
-    body[data-theme="dark"]::before{ background-image:url("website_bg_0.jpg"); }  /* dark image */
-    body[data-theme="light"]::before{ background-image:url("website_bg_1.jpg"); } /* light image */
+    body[data-theme="dark"]::before{ background-image:url(); }  /* dark image */
+    body[data-theme="light"]::before{ background-image:url(); } /* light image */
     body::after{
       content:""; position:fixed; inset:0; z-index:-3; pointer-events:none;
       background: linear-gradient(120deg, rgba(0,191,255,0.12), rgba(80,0,200,0.07), rgba(255,126,179,0.08));
